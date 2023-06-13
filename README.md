@@ -11,7 +11,7 @@ __________________________________
 
 __________________________________
 
-# 🖼️ Showcase:
+# 🖼️ Showcase
 ![image](https://github.com/FIMARx/Simple-react-blog/assets/69573290/22601df1-a03b-4bb8-9a58-eb425c6e5ac0)
 > __________________________________
 ![image](https://github.com/FIMARx/Simple-react-blog/assets/69573290/d36a8aeb-b924-4709-94a6-92da76cb2175)
