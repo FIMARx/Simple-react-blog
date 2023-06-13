@@ -1,17 +1,17 @@
-># Simple react blog project for beginners. 
+># 🌄 Simple react blog project for beginners. 
 
 This is a simple React application that showcases a blog website. It utilizes React Router for handling different routes and consists of components such as NavigationBar, Footer, BlogPage, ContactForm, and the main App component. The homepage displays a collection of blog posts fetched from a predefined array. Each blog post contains a title, content, and an associated image. Users can click on the "Read More" button to view the complete blog post. Additionally, the website includes a contact form for users to submit inquiries. The styling is implemented using CSS, featuring animations for fading in elements and a custom scrollbar design.
 
 - `Poject uses React Router V6 ✅`
 __________________________________
 
-# ⚠️- Node module folder
+# ‼️- Node module folder
 
 - Please note that the `node_modules` directory is not included in this project. To ensure its proper functioning, please run the following command `npm install` to install the necessary dependencies and generate the `node_modules` folder to your project.
 
 __________________________________
 
-# Getting Started with Create React App
+# 📖 Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
