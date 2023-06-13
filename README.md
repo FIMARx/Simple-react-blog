@@ -11,10 +11,20 @@ __________________________________
 
 __________________________________
 
+# 🖼️ Showcase:
+![image](https://github.com/FIMARx/Simple-react-blog/assets/69573290/22601df1-a03b-4bb8-9a58-eb425c6e5ac0)
+> __________________________________
+![image](https://github.com/FIMARx/Simple-react-blog/assets/69573290/d36a8aeb-b924-4709-94a6-92da76cb2175)
+> __________________________________
+![image](https://github.com/FIMARx/Simple-react-blog/assets/69573290/5f1ee646-25df-4b6a-94be-3c27ddfbd591)
+> __________________________________
+![image](https://github.com/FIMARx/Simple-react-blog/assets/69573290/c316a4a8-b57b-485b-956b-e5e2a6a05789)
+__________________________________
+
 # 📖 Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 📜 Available Scripts
 
 In the project directory, you can run:
 
@@ -43,7 +53,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**⚠️ Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -51,7 +61,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More:
+## 📃 Learn More:
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
