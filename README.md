@@ -3,8 +3,6 @@
 This is a simple React application that showcases a blog website. It utilizes React Router for handling different routes and consists of components such as NavigationBar, Footer, BlogPage, ContactForm, and the main App component. The homepage displays a collection of blog posts fetched from a predefined array. Each blog post contains a title, content, and an associated image. Users can click on the "Read More" button to view the complete blog post. Additionally, the website includes a contact form for users to submit inquiries. The styling is implemented using CSS, featuring animations for fading in elements and a custom scrollbar design. FontAwesome icons are also used to enhance the visual appeal and usability of the application.
 
 - `Poject uses React Router V6 ✅`
-
-### 🔴 Website is live here: -
 __________________________________
 
 ># ‼️- Node module folder "missing"
