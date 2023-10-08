@@ -5,10 +5,11 @@ This is a simple React application that showcases a blog website. It utilizes Re
 - `Poject uses React Router V6 ✅`
 __________________________________
 
-# ‼️- Node module folder "missing"
+># ‼️- Node module folder "missing"
 
 - Please note that the `node_modules` directory is not included in this project. To ensure its proper functioning, please run the following command `npm install` to install the necessary dependencies and generate the `node_modules` folder to your project.
 
+### 🔴 Website is live here: -
 __________________________________
 
 # 🖼️ Showcase
