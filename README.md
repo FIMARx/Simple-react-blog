@@ -1,6 +1,6 @@
-# 🚀 React Blog Project
-
 <div align="center">
+  
+# 🚀 React Blog Project
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/FIMARx/Simple-react-blog)
 ![GitHub issues](https://img.shields.io/github/issues/FIMARx/Simple-react-blog)
